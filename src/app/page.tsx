@@ -278,7 +278,7 @@ export default function HomePage() {
                   Adarsha Meeting
                 </a>
                 <a
-                  href="https://YOUR_MEETING_LINK_HERE"
+                  href="https://adarsha-secondary-school-attendance.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-secondary px-8 py-3.5 text-base inline-flex items-center gap-2"
